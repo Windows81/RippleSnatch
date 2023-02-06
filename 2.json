@@ -1,0 +1,495 @@
+{
+	"application_create_date": "Thu, 10 Nov 2022 01:46:29 GMT",
+	"application_id": 14414197,
+	"application_public_id": "5d90b2f93e9a4b0591c4b0d73c481a28",
+	"application_status": 3,
+	"application_type": "Inbound",
+	"campaign": { "campaign_id": 1868, "name": "Sourcing" },
+	"campaign_name": "Sourcing",
+	"candidate_fit": null,
+	"candidate_fit_as_string": null,
+	"candidate_id": 13793037,
+	"candidate_qa_id": null,
+	"candidate_url": null,
+	"channel_name": "Handshake",
+	"client_manager_name": "John Yostpille",
+	"client_manager_note": null,
+	"company": {
+		"anti_bias_enabled": false,
+		"candidate_manager_name": "Brennan Delsing",
+		"chats_enabled": false,
+		"client_manager_email": "john.yostpille@ripplematch.com",
+		"client_manager_id": 3694,
+		"client_manager_name": "John Yostpille",
+		"community_uploads_enabled": true,
+		"company_badges": [
+			{ "active": false, "company_id": 1001, "last_active_on": "Sat, 03 Dec 2022 01:00:28 GMT", "type": "RESPONDS_QUICKLY" }
+		],
+		"company_page": {
+			"amount_of_employees": "1,001-5,000 employees",
+			"description": "Reimagining the way people come together",
+			"hq": "San Mateo, CA",
+			"images": [
+				{
+					"id": 4369,
+					"image_type": 1,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+					"position": 1,
+					"url": null
+				},
+				{
+					"id": 4376,
+					"image_type": 3,
+					"original_url": "https://www.youtube.com/watch?v=AxoHOrVtwWk",
+					"position": null,
+					"url": "https://www.youtube.com/embed/AxoHOrVtwWk"
+				},
+				{
+					"id": 4377,
+					"image_type": 3,
+					"original_url": "https://www.youtube.com/watch?v=8Ixx1iLR8Bw",
+					"position": null,
+					"url": "https://www.youtube.com/embed/8Ixx1iLR8Bw"
+				},
+				{
+					"id": 4381,
+					"image_type": 2,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058192838-pundefinedc593original.jpg?versionId=._.bvLs58qOFFFDxEBI8eqqbkA0us9E2",
+					"position": null,
+					"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058204807-pundefinedc593cropped.jpeg?versionId=9UwjP7EncTWeGAvg1DO8Fa31f7KGj09D"
+				},
+				{
+					"id": 4384,
+					"image_type": 3,
+					"original_url": "https://www.youtube.com/watch?v=VL6rYNmfrjM",
+					"position": null,
+					"url": "https://www.youtube.com/embed/VL6rYNmfrjM"
+				},
+				{
+					"id": 4383,
+					"image_type": 2,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593original.jpg?versionId=iyKBBqW5dqn3zcbj.6htyP1jCbTNKT2G",
+					"position": null,
+					"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593cropped.jpeg?versionId=Brz9KLW2dw_QeUob5b6q5NLHB_7tZh29"
+				},
+				{
+					"id": 4387,
+					"image_type": 3,
+					"original_url": "https://www.youtube.com/watch?v=iXyJILMTAmw",
+					"position": null,
+					"url": "https://www.youtube.com/embed/iXyJILMTAmw"
+				},
+				{
+					"id": 4386,
+					"image_type": 5,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-original-1660059699886.png?versionId=TpY_BobOq_Heu2WUsiUaf_SFDRvrsqHM",
+					"position": null,
+					"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-1660059706704.png?versionId=LBpr_HHm17N9dJMCxiUB9bSZkQQHhpIx"
+				},
+				{
+					"id": 4374,
+					"image_type": 7,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593original.png?versionId=r_yKKVl2noQkBNGAtiX3D2QrEV_OFyTM",
+					"position": null,
+					"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593cropped.jpeg?versionId=TvBHKrg5s45Cf6e_nSzkiBVtAy5QeHog"
+				},
+				{
+					"id": 4375,
+					"image_type": 2,
+					"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593original.jpg?versionId=T0rEjxFuhbm2nN66SMlyn_iumYnFQpGJ",
+					"position": 1,
+					"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593cropped.jpeg?versionId=l7r9y0OldihZ93o_rm.BIuQcqE6yHl4Z"
+				}
+			],
+			"industry": "Entertainment",
+			"industry_id": 38,
+			"live": true,
+			"logo_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+			"people_visible": false,
+			"social_links": { "LinkedIn": "https://www.linkedin.com/company/roblox/" },
+			"tagline": "Reimagining the way  people come together",
+			"website": "https://corp.roblox.com/"
+		},
+		"crm_enabled": false,
+		"events_enabled": true,
+		"funnel_analytics_enabled": false,
+		"id": 1001,
+		"industry_id": 43,
+		"internal": false,
+		"jobs_enabled": true,
+		"max_auto_invites": 1000,
+		"name": "Roblox",
+		"page_enabled": true,
+		"product_success_manager_id": 4412,
+		"prompt_student_to_finish_profile_on_app_completion": true,
+		"push_rejected_live": false,
+		"require_mfa": false,
+		"source_roles_enabled": true,
+		"tracking_links_enabled": false,
+		"url": "roblox"
+	},
+	"default_recruiter_email": "juliejung@roblox.com",
+	"default_recruiter_name": "Julie Jung",
+	"description": "{\"ops\":[{\"insert\":\"Curious about the Metaverse and its use cases? You\u2019ve come to the right place! At Roblox, we\u2019ve done a lot in the Metaverse: produced fashion shows (Gucci Gardens),\u00a0concerts (Lil Nas X), and monetized our platform. Join us to hear alumni engineers and product managers on how we build products end to end - everything from ideation, design, codebase, to product launches. We will talk in-depth about the innovative products we work on and the problems we strive to solve. Food is always provided :)\\n\"}]}",
+	"event": {
+		"algorithm": null,
+		"application_questions": null,
+		"auto_invites_sent": null,
+		"child_role_ids": null,
+		"client_manager_name": null,
+		"company": {
+			"anti_bias_enabled": false,
+			"candidate_manager_name": "Brennan Delsing",
+			"chats_enabled": false,
+			"client_manager_email": "john.yostpille@ripplematch.com",
+			"client_manager_id": 3694,
+			"client_manager_name": "John Yostpille",
+			"community_uploads_enabled": true,
+			"company_badges": [
+				{ "active": false, "company_id": 1001, "last_active_on": "Sat, 03 Dec 2022 01:00:28 GMT", "type": "RESPONDS_QUICKLY" }
+			],
+			"company_page": {
+				"amount_of_employees": "1,001-5,000 employees",
+				"description": "Reimagining the way people come together",
+				"hq": "San Mateo, CA",
+				"images": [
+					{
+						"id": 4369,
+						"image_type": 1,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+						"position": 1,
+						"url": null
+					},
+					{
+						"id": 4376,
+						"image_type": 3,
+						"original_url": "https://www.youtube.com/watch?v=AxoHOrVtwWk",
+						"position": null,
+						"url": "https://www.youtube.com/embed/AxoHOrVtwWk"
+					},
+					{
+						"id": 4377,
+						"image_type": 3,
+						"original_url": "https://www.youtube.com/watch?v=8Ixx1iLR8Bw",
+						"position": null,
+						"url": "https://www.youtube.com/embed/8Ixx1iLR8Bw"
+					},
+					{
+						"id": 4381,
+						"image_type": 2,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058192838-pundefinedc593original.jpg?versionId=._.bvLs58qOFFFDxEBI8eqqbkA0us9E2",
+						"position": null,
+						"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058204807-pundefinedc593cropped.jpeg?versionId=9UwjP7EncTWeGAvg1DO8Fa31f7KGj09D"
+					},
+					{
+						"id": 4384,
+						"image_type": 3,
+						"original_url": "https://www.youtube.com/watch?v=VL6rYNmfrjM",
+						"position": null,
+						"url": "https://www.youtube.com/embed/VL6rYNmfrjM"
+					},
+					{
+						"id": 4383,
+						"image_type": 2,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593original.jpg?versionId=iyKBBqW5dqn3zcbj.6htyP1jCbTNKT2G",
+						"position": null,
+						"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593cropped.jpeg?versionId=Brz9KLW2dw_QeUob5b6q5NLHB_7tZh29"
+					},
+					{
+						"id": 4387,
+						"image_type": 3,
+						"original_url": "https://www.youtube.com/watch?v=iXyJILMTAmw",
+						"position": null,
+						"url": "https://www.youtube.com/embed/iXyJILMTAmw"
+					},
+					{
+						"id": 4386,
+						"image_type": 5,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-original-1660059699886.png?versionId=TpY_BobOq_Heu2WUsiUaf_SFDRvrsqHM",
+						"position": null,
+						"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-1660059706704.png?versionId=LBpr_HHm17N9dJMCxiUB9bSZkQQHhpIx"
+					},
+					{
+						"id": 4374,
+						"image_type": 7,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593original.png?versionId=r_yKKVl2noQkBNGAtiX3D2QrEV_OFyTM",
+						"position": null,
+						"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593cropped.jpeg?versionId=TvBHKrg5s45Cf6e_nSzkiBVtAy5QeHog"
+					},
+					{
+						"id": 4375,
+						"image_type": 2,
+						"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593original.jpg?versionId=T0rEjxFuhbm2nN66SMlyn_iumYnFQpGJ",
+						"position": 1,
+						"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593cropped.jpeg?versionId=l7r9y0OldihZ93o_rm.BIuQcqE6yHl4Z"
+					}
+				],
+				"industry": "Entertainment",
+				"industry_id": 38,
+				"live": true,
+				"logo_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+				"people_visible": false,
+				"social_links": {},
+				"tagline": "Reimagining the way  people come together",
+				"website": "https://corp.roblox.com/"
+			},
+			"crm_enabled": false,
+			"events_enabled": true,
+			"funnel_analytics_enabled": false,
+			"id": 1001,
+			"industry_id": 43,
+			"internal": false,
+			"jobs_enabled": true,
+			"max_auto_invites": 1000,
+			"name": "Roblox",
+			"page_enabled": true,
+			"product_success_manager_id": 4412,
+			"prompt_student_to_finish_profile_on_app_completion": true,
+			"push_rejected_live": false,
+			"require_mfa": false,
+			"source_roles_enabled": true,
+			"tracking_links_enabled": false,
+			"url": "roblox"
+		},
+		"company_id": 1001,
+		"compensation_high": null,
+		"compensation_is_public": false,
+		"compensation_low": null,
+		"compensation_type": null,
+		"create_date": "Mon, 31 Oct 2022 03:49:15 GMT",
+		"created_by": {
+			"company": {
+				"anti_bias_enabled": false,
+				"candidate_manager_name": "Brennan Delsing",
+				"chats_enabled": false,
+				"client_manager_email": "john.yostpille@ripplematch.com",
+				"client_manager_id": 3694,
+				"client_manager_name": "John Yostpille",
+				"community_uploads_enabled": true,
+				"company_badges": [
+					{ "active": false, "company_id": 1001, "last_active_on": "Sat, 03 Dec 2022 01:00:28 GMT", "type": "RESPONDS_QUICKLY" }
+				],
+				"company_page": {
+					"amount_of_employees": "1,001-5,000 employees",
+					"description": "Reimagining the way people come together",
+					"hq": "San Mateo, CA",
+					"images": [
+						{
+							"id": 4369,
+							"image_type": 1,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+							"position": 1,
+							"url": null
+						},
+						{
+							"id": 4376,
+							"image_type": 3,
+							"original_url": "https://www.youtube.com/watch?v=AxoHOrVtwWk",
+							"position": null,
+							"url": "https://www.youtube.com/embed/AxoHOrVtwWk"
+						},
+						{
+							"id": 4377,
+							"image_type": 3,
+							"original_url": "https://www.youtube.com/watch?v=8Ixx1iLR8Bw",
+							"position": null,
+							"url": "https://www.youtube.com/embed/8Ixx1iLR8Bw"
+						},
+						{
+							"id": 4381,
+							"image_type": 2,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058192838-pundefinedc593original.jpg?versionId=._.bvLs58qOFFFDxEBI8eqqbkA0us9E2",
+							"position": null,
+							"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058204807-pundefinedc593cropped.jpeg?versionId=9UwjP7EncTWeGAvg1DO8Fa31f7KGj09D"
+						},
+						{
+							"id": 4384,
+							"image_type": 3,
+							"original_url": "https://www.youtube.com/watch?v=VL6rYNmfrjM",
+							"position": null,
+							"url": "https://www.youtube.com/embed/VL6rYNmfrjM"
+						},
+						{
+							"id": 4383,
+							"image_type": 2,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593original.jpg?versionId=iyKBBqW5dqn3zcbj.6htyP1jCbTNKT2G",
+							"position": null,
+							"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660058430652-pundefinedc593cropped.jpeg?versionId=Brz9KLW2dw_QeUob5b6q5NLHB_7tZh29"
+						},
+						{
+							"id": 4387,
+							"image_type": 3,
+							"original_url": "https://www.youtube.com/watch?v=iXyJILMTAmw",
+							"position": null,
+							"url": "https://www.youtube.com/embed/iXyJILMTAmw"
+						},
+						{
+							"id": 4386,
+							"image_type": 5,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-original-1660059699886.png?versionId=TpY_BobOq_Heu2WUsiUaf_SFDRvrsqHM",
+							"position": null,
+							"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/593-discover-1660059706704.png?versionId=LBpr_HHm17N9dJMCxiUB9bSZkQQHhpIx"
+						},
+						{
+							"id": 4374,
+							"image_type": 7,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593original.png?versionId=r_yKKVl2noQkBNGAtiX3D2QrEV_OFyTM",
+							"position": null,
+							"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660059849540-pundefinedc593cropped.jpeg?versionId=TvBHKrg5s45Cf6e_nSzkiBVtAy5QeHog"
+						},
+						{
+							"id": 4375,
+							"image_type": 2,
+							"original_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593original.jpg?versionId=T0rEjxFuhbm2nN66SMlyn_iumYnFQpGJ",
+							"position": 1,
+							"url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/1660060146476-p1c593cropped.jpeg?versionId=l7r9y0OldihZ93o_rm.BIuQcqE6yHl4Z"
+						}
+					],
+					"industry": "Entertainment",
+					"industry_id": 38,
+					"live": true,
+					"logo_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/company_images/p1i593roblox.jpeg?versionId=MMnb7HogzFYixhRax4pfaV76B4F8T__o",
+					"people_visible": false,
+					"social_links": {},
+					"tagline": "Reimagining the way  people come together",
+					"website": "https://corp.roblox.com/"
+				},
+				"crm_enabled": false,
+				"events_enabled": true,
+				"funnel_analytics_enabled": false,
+				"id": 1001,
+				"industry_id": 43,
+				"internal": false,
+				"jobs_enabled": true,
+				"max_auto_invites": 1000,
+				"name": "Roblox",
+				"page_enabled": true,
+				"product_success_manager_id": 4412,
+				"prompt_student_to_finish_profile_on_app_completion": true,
+				"push_rejected_live": false,
+				"require_mfa": false,
+				"source_roles_enabled": true,
+				"tracking_links_enabled": false,
+				"url": "roblox"
+			},
+			"company_id": 1001,
+			"id": 4904,
+			"invitor_recruiter_id": null,
+			"recruiter_permissions_type": 2,
+			"recruiter_type": 2,
+			"user": {
+				"admin": 1,
+				"email": "juliejung@roblox.com",
+				"first_name": null,
+				"id": 489223,
+				"last_name": null,
+				"student_id": null
+			}
+		},
+		"date_job_listed": "Mon, 31 Oct 2022 03:49:15 GMT",
+		"deadline": null,
+		"default_recruiter_email": null,
+		"default_recruiter_id": 4904,
+		"default_recruiter_name": null,
+		"department_id": null,
+		"desc": "{\"ops\":[{\"insert\":\"Curious about the Metaverse and its use cases? You\u2019ve come to the right place! At Roblox, we\u2019ve done a lot in the Metaverse: produced fashion shows (Gucci Gardens),\u00a0concerts (Lil Nas X), and monetized our platform. Join us to hear alumni engineers and product managers on how we build products end to end - everything from ideation, design, codebase, to product launches. We will talk in-depth about the innovative products we work on and the problems we strive to solve. Food is always provided :)\\n\"}]}",
+		"employment_type": null,
+		"event_role_info": {
+			"allow_reply_to_recruiter_from_reminder_emails": true,
+			"automatch_enabled": false,
+			"checkin_code": "7865c0",
+			"cover_image_url": "https://recruitinguploadbucket.s3.amazonaws.com:443/event-images/1667187783328-cropped.jpeg?versionId=XPwPM7QFp7ngLCLaV4PLXfFQabRFrMb0",
+			"end_date": "Thu, 10 Nov 2022 22:00:00 GMT",
+			"event_highlights": [
+				{ "id": 1, "name": "Networking" },
+				{ "id": 2, "name": "Q&A" }
+			],
+			"event_related_roles": [],
+			"instructions_to_join": "<p>Please make sure you're RSVP'd on RippleMatch - we'll see you there! </p>",
+			"location": "UC Irvine Merage Auditorium",
+			"organizer": "company",
+			"reminders_enabled": true,
+			"rsvp_limit": 350,
+			"send_email_from_recruiter_id": 4904,
+			"speaker_ids": null,
+			"start_date": "Thu, 10 Nov 2022 21:00:00 GMT",
+			"time_zone": "America/Los_Angeles",
+			"type": 1
+		},
+		"experience_levels": [],
+		"external_applications": null,
+		"formatted_locations": "UC Irvine Merage Auditorium",
+		"hiring_target": null,
+		"id": 14273,
+		"international": false,
+		"is_draft": false,
+		"is_parent": null,
+		"is_program": null,
+		"is_program_child": null,
+		"job_location_type": null,
+		"job_type": null,
+		"location": "UC Irvine Merage Auditorium",
+		"locations": null,
+		"max_in_app_complete": 40,
+		"max_in_live": null,
+		"name": "UC Irvine: Roblox Summit",
+		"nationwide": null,
+		"parent_role_id": null,
+		"pay_type": null,
+		"program_id": null,
+		"public": null,
+		"public_id": "111be438",
+		"remote": null,
+		"role_is_active": true,
+		"role_type": 3,
+		"stage_live": 178,
+		"start_date_types": [],
+		"status": 0,
+		"target_rm_diverse_headcount": null,
+		"target_rm_headcount": null,
+		"tracking_link_collection_id": 15316
+	},
+	"event_attendance": false,
+	"event_attendance_as_string": null,
+	"event_calendar_links": [
+		{
+			"download": null,
+			"logo_img_src": "https://d3ojh0z2ifymtd.cloudfront.net/google-icon.svg",
+			"provider_name": "google",
+			"url": "https://www.google.com/calendar/render?action=TEMPLATE&text=UC%20Irvine%3A%20Roblox%20Summit&dates=20221110T1300000800/20221110T1400000800&ctz=America/Los_Angeles&details=%0APlease%20make%20sure%20you're%20RSVP'd%20on%20RippleMatch%20-%20we'll%20see%20you%20there%21%20%0AFor%20more%20details%20on%20the%20event%20click%20<a%20href%3Dhttps%3A%2F%2Fapp.ripplematch.com%2Fevent%2Froblox%2F111be438%2F>here<%2Fa>%0A&location=UC%20Irvine%20Merage%20Auditorium&sprop=&sprop=name:"
+		},
+		{
+			"download": "UC-Irvine:-Roblox-Summit-event.ics",
+			"logo_img_src": "https://d3ojh0z2ifymtd.cloudfront.net/apple-icon.svg",
+			"provider_name": "apple",
+			"url": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VEVENT\nDTSTART:20221110T210000Z\nDTEND:20221110T220000Z\nSUMMARY:UC%20Irvine%3A%20Roblox%20Summit\nDESCRIPTION:%0APlease%20make%20sure%20you're%20RSVP'd%20on%20RippleMatch%20-%20we'll%20see%20you%20there%21%20%0AFor%20more%20details%20on%20the%20event%20click%20<a%20href%3Dhttps%3A%2F%2Fapp.ripplematch.com%2Fevent%2Froblox%2F111be438%2F>here<%2Fa>%0A\nLOCATION:UC%20Irvine%20Merage%20Auditorium\nUID:111be438\nEND:VEVENT\nEND:VCALENDAR"
+		},
+		{
+			"download": null,
+			"logo_img_src": "https://d3ojh0z2ifymtd.cloudfront.net/outlook-icon.svg",
+			"provider_name": "outlook",
+			"url": "https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&subject=UC%20Irvine%3A%20Roblox%20Summit&startdt=2022-11-10T21:00:00Z&enddt=2022-11-10T22:00:00Z&body=%0APlease%20make%20sure%20you're%20RSVP'd%20on%20RippleMatch%20-%20we'll%20see%20you%20there%21%20%0AFor%20more%20details%20on%20the%20event%20click%20<a%20href%3Dhttps%3A%2F%2Fapp.ripplematch.com%2Fevent%2Froblox%2F111be438%2F>here<%2Fa>%0A&location=UC%20Irvine%20Merage%20Auditorium&allday=false"
+		}
+	],
+	"event_candidate_image_url": null,
+	"event_end_date": "Thu, 10 Nov 2022 22:00:00 GMT",
+	"event_id": "111be438",
+	"event_name": "UC Irvine: Roblox Summit",
+	"event_start_date": "Thu, 10 Nov 2022 21:00:00 GMT",
+	"event_time_zone": "America/Los_Angeles",
+	"has_questions": false,
+	"international": false,
+	"location": "UC Irvine Merage Auditorium",
+	"original_candidate_id": null,
+	"point_of_contact": null,
+	"potential_role_ids": null,
+	"qa_issue_type": null,
+	"qa_status": null,
+	"redirect_hash": "7b63fbc3",
+	"saved_by_student": false,
+	"screening_questions": null,
+	"sent_application": null,
+	"stage": "Review",
+	"type": 1,
+	"was_sent_external_application": null
+}
